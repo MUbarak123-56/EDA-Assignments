@@ -1,7 +1,7 @@
 ---
 title: "Week 5 homework assignment"
-author: Student Name
-date: Due Date
+author: Mubarak Ganiyu
+date: "09/29/2021"
 output: pdf_document
 editor_options:
   chunk_output_type: inline
